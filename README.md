@@ -24,12 +24,13 @@ As part of this program, we have listed the following Student Assessment Learnin
     completed
 
 ## Web Development
-completed
 
 - ### `About Browser`
     - [How browser works?](https://www.youtube.com/watch?v=DuSURHrZG6I)(10mins)<br>
+    - completed
 - ### `Document Object Model`
     - [DOM](https://www.youtube.com/watch?v=ipkjfvl40s0)(10mins)<br>
+    - completed
 - ### `HTML`
     - [HTML](https://www.youtube.com/watch?v=pQN-pnXPaVg)(2hrs)<br>
 completed
