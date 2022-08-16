@@ -37,7 +37,7 @@ As part of this program, we have listed the following Student Assessment Learnin
 completed
 - ### `CSS`
     - [CSS](https://www.youtube.com/watch?v=ieTHC78giGQ)(1hr 25mins)<br>
-
+completed
 - ### `Javascript`
     - [Javascript](https://www.youtube.com/watch?v=PkZNo7MFNFg&t=21s)(3hrs 20mins)<br>
 
@@ -46,7 +46,7 @@ completed
 - ### `HTML & CSS`
     - [Portfolio](https://www.youtube.com/watch?v=0YFrGy_mzjY)(2hrs)<br>
     - [Social Media](https://www.youtube.com/watch?v=NljIHlZRTTE)(2hrs 40mins)<br>
-
+completed
 - ### `Javascript`
     - [Education](https://www.youtube.com/watch?v=dMZujoGxjRo)(2hrs)<br>
     - [PokeMon](https://www.youtube.com/watch?v=T-VQUKeSU1w)(40mins)<br>
