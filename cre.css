@@ -1,0 +1,49 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+body{
+  background-color: #0000ff;
+  width: 100vw;
+  height: 100vh;
+}
+.glass{
+  margin-top: 10%;
+  margin-left: 18%;
+  width: 70%;
+  border-radius: 25px;
+  border: 2px solid whitesmoke;
+  border-style: doubled;
+  box-shadow: 10px 10px 10px rgba(45,55,68,0.3);
+}
+h1{
+  font-size: 2.5rem;
+  font-family: fantasy;
+  font-weight: bold;
+  text-transform: uppercase;
+  margin-left: 37%;
+  letter-spacing: 2px;
+  margin-top: 10%;
+}
+#userBox{
+  width: 40%;
+  font-size: 1.2rem;
+  font-family: monospace,cursive;
+  font-weight: 600;
+  text-align: center;
+  border: none;
+  padding: 3px;
+  border-radius: 25px;
+  margin-top: 4%;
+  margin-left: 27%;
+  padding: 2px,0,2px,0;
+}
+#chatLog{
+  font-size: 1.5rem;
+  font-family: sans-serif;
+  font-weight: 600;
+  margin-bottom: 8%;
+  margin-left: 27%;
+  margin-top: 5%;
+}
